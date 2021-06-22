@@ -14,9 +14,10 @@ There were 0 Vine reviews and....
 
 ### 5 Start Reviews
 ![vine_stars.png](https://github.com/Cmarescot/Amazon_Vine_Analysis/blob/main/image_folder/vine_stars.png)
-There were Vine reviews that were 5 stars
+There were 0 Vine reviews that were 5 stars
+
 ![nonvine_stars.png](https://github.com/Cmarescot/Amazon_Vine_Analysis/blob/main/image_folder/nonvine_stars.png)
-There were NoneVine reviews that were 5 stars 
+There were 2507 NoneVine reviews that were 5 stars 
 
 ### 5 Start Percentages 
 
